@@ -1,6 +1,6 @@
 import "../pages/home.css"
-import SearchBar from "./searchbar";
 import HelpCall from "./sections/helpcall";
+import HomeSearch from "./sections/homesearch";
 import Suggestion from "./sections/suggestion";
 import Ways from "./sections/ways";
 export const Home =() =>{
@@ -12,7 +12,8 @@ export const Home =() =>{
                     <p>"YOUR PICK OF RIDES <br /> AT LOW PRICES"</p>
                 </div>
             </div>
-                    <SearchBar />
+                    {/* <SearchBar /> */}
+                    <HomeSearch />
                     <Suggestion />
                     <Ways />
                     <HelpCall />
