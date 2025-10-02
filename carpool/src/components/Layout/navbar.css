@@ -1,0 +1,95 @@
+
+:root{
+    /* --font-family:"Winky Rough"; */
+    --font-family: "Nunito", sans-serif;
+    --color:rgb(137, 236, 255);
+    
+}
+html{
+    scroll-behavior:smooth;
+}
+
+nav{
+    background-color: rgb(255, 255, 255);
+    height: 60px;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    /* position: fixed;
+    z-index: 999;
+    top: 0;*/
+}
+
+
+.logo img{
+    height: 35px;
+}
+.logo a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: var(--font-family);
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.navbar{
+    display:flex;
+    gap: 18px;
+}
+
+.nav-link{
+    margin: 5px;
+}
+
+.navbar :hover{
+    color: #14d9d2;
+}
+.navbar .active{
+    /* color: var(--color); */
+    color: #14d9d2;
+}
+.navbar a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    margin: 20px;
+    justify-content: center;
+    align-content: center;
+    word-spacing: x-5;
+    font-family:var(--font-family);
+    font-weight: bold;
+}
+
+.nav_btn{
+    margin: 10px;
+    display: flex;
+    font-family: var(--font-family);
+    font-weight: bold;
+}
+
+.cost-link{
+    color:black;
+}
+
+.btn_sg{
+    
+    background-color: rgb(137, 236, 255);
+    font-family: var(--font-family);
+    font-weight:500;
+    font-size: 13px;
+    
+}
+.btn1{
+    font-family: var(--font-family);
+    margin: 10px;
+    height: 30px;
+    width: 80px;
+    border-radius: 7px;
+    background-color: aliceblue;
+    border: 2px solid rgb(137, 236, 255);
+}
+

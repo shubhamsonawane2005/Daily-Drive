@@ -1,0 +1,44 @@
+[
+  {
+    "id": "b1",
+    "img": "./public/post1.jpg",
+    "date": "January 14th, 2025",
+    "title": "Smart Car Sharing: The Future of Daily Drive",
+    "desc": "This image illustrates the modern concept of car sharing through a sleek, minimalistic design. A smartphone displays a car location pin on a map, emphasizing the convenience of booking a shared ride with just a few taps. The bright yellow theme conveys energy and innovation, while the clean lines and vector art style highlight the efficiency of app-based ride-sharing. This visual is perfect for promoting eco-friendly travel, reducing commuting costs, and encouraging smarter urban mobility choices."
+  },
+  {
+    "id": "b2",
+    "img": "./public/post2.png",
+    "date": "January 14th, 2025",
+    "title": "Jaw-Dropping Deals on Brand-New Cars with ACKO Drive",
+    "desc": "This vibrant advertisement showcases a sleek, modern car with a bold message highlighting unbeatable prices on new vehicles through ACKO Drive. The image exudes luxury and excitement, with a cityscape backdrop symbolizing urban convenience and lifestyle upgrades."
+  },
+  {
+    "id": "b3",
+    "img": "./public/post3.jpg",
+    "date": "January 8th, 2021",
+    "title": "Share Your Ride, Save Your Wallet",
+    "desc": "This modern, vibrant advertisement features a lively city setting with a group of people gathering around shared cars. The clean urban background with high-rise buildings and green trees sets a positive, eco-friendly tone."
+  },
+  {
+    "id": "b4",
+    "img": "./public/post4.jpg",
+    "date": "January 8th, 2021",
+    "title": "Seamless Support, Anytime You Need It",
+    "desc": "This digital illustration shows a professional woman working efficiently in a modern office. Wearing a sleek headset and multitasking on her phone and laptop, she represents customer support excellence. The bright, welcoming atmosphere and professional setup reflect trust and reliability. Ideal for promoting carpooling app customer service, tech support, or user helpdesk features."
+  },
+  {
+    "id": "b5",
+    "img": "./public/post5.jpg",
+    "date": "January 8th, 2021",
+    "title": "Drive Green, Ride Clean: The Future of Eco-Friendly Carpooling",
+    "desc": "This vibrant illustration showcases a futuristic electric car cruising through a green highway lined with solar panels and wind turbines. The image symbolizes sustainable mobility, highlighting how carpooling combined with renewable energy reduces carbon footprints. Ideal for campaigns focused on eco-conscious commuting, it visually represents the harmony between technology, nature, and smart travel choices. "
+  },
+  {
+    "id": "b6",
+    "img": "./public/post6.jpg",
+    "date": "January 8th, 2021",
+    "title": "User Story: How I Saved ₹3,000 a Month with Carpooling!",
+    "desc": "This engaging illustration captures a young professional proudly displaying a carpool app on his smartphone, surrounded by a cheerful group of colleagues. The app shows a monthly savings of ₹3,000, highlighting the financial benefits of ride-sharing. "
+  }
+]

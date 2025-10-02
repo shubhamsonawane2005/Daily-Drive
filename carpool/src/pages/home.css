@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Crete+Round:ital@0;1&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Winky+Rough:ital,wght@0,300..900;1,300..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Crete+Round:ital@0;1&family=Nova+Round&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Winky+Rough:ital,wght@0,300..900;1,300..900&display=swap');
+
+:root{
+    
+    /* --font-family: "Nunito", sans-serif; */
+    --font-family: Crete Round;
+    --color:rgb(137, 236, 255);
+    --font-family2: "Poppins";
+    
+}
+html{
+    scroll-behavior: smooth;
+}
+.body_home{
+    /* background-color: rgb(221, 249, 249); */
+    background-color: rgba(255, 255, 255, 0.8);
+    overflow-x: hidden;
+}
+
+.banner {
+    background-image: url("/public/banner.jpg");
+    background-position: center ;
+    justify-content:flex-start;
+    height: 65vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.disc{
+    font-size: 3rem;
+    font-family: "Bebas Neue";
+    font-weight: 900;
+    margin: 10px;
+    padding: 6px 20px;
+    color: rgb(42, 47, 106);
+    line-height: 1.2;
+}

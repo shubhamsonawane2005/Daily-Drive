@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Crete+Round:ital@0;1&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Winky+Rough:ital,wght@0,300..900;1,300..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Crete+Round:ital@0;1&family=Nova+Round&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Winky+Rough:ital,wght@0,300..900;1,300..900&display=swap');
+.body_about {
+    padding: 0;
+    margin: 0;
+    background-color: white;
+    margin-bottom: 50px;
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+.container_about {
+    background-color: white;
+
+}
+
+.contain h1 ,h3  {
+    text-align: center;
+    font-family:'Crete Round';
+}
+
+.data_about {
+    margin:20px;
+    text-align: justify;
+}
+
+.data_about img:first-child {
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+    border-radius: 60% 40% 30% 70% / 50% 60% 40% 50%;
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25),
+        0 10px 10px rgba(0, 0, 0, 0.22);
+
+}
+
+.data_about img {
+    height: auto;
+    width: 450px;
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25),
+        0 10px 10px rgba(0, 0, 0, 0.22);
+    
+}
+
+
+.abou_img {
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.abou_img p {
+    margin: 20px;
+    text-align: justify;
+}

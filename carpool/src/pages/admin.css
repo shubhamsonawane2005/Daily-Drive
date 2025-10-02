@@ -1,0 +1,13 @@
+.collapse ul{
+    list-style: none;      
+    color: rgb(0, 0, 0);
+}
+
+.collapse ul li:hover{
+    background-color: rgb(213, 213, 213);
+    color: black;
+}
+
+.navlink:hover{
+    color: rgb(0, 0, 0);
+}

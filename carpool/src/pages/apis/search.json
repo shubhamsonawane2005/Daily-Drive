@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "India",
+    "code": "IN",
+    "continent": "Asia",
+    "keywords": ["bharat", "hindustan", "india", "south asia"],
+    "flag": "images/flags/india.png"
+  },
+  {
+    "id": 2,
+    "name": "United States",
+    "code": "US",
+    "continent": "North America",
+    "keywords": ["america", "usa", "united states", "north america"],
+    "flag": "images/flags/usa.png"
+  },
+  {
+    "id": 3,
+    "name": "France",
+    "code": "FR",
+    "continent": "Europe",
+    "keywords": ["france", "europe", "french", "paris"],
+    "flag": "images/flags/france.png"
+  },
+  {
+    "id": 4,
+    "name": "Japan",
+    "code": "JP",
+    "continent": "Asia",
+    "keywords": ["japan", "nippon", "tokyo", "asia"],
+    "flag": "images/flags/japan.png"
+  },
+  {
+    "id": 5,
+    "name": "Brazil",
+    "code": "BR",
+    "continent": "South America",
+    "keywords": ["brazil", "brasil", "rio", "south america"],
+    "flag": "images/flags/brazil.png"
+  }
+]
