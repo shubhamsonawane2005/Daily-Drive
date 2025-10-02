@@ -1,5 +1,5 @@
 import { useState } from "react";
-import "../pages/searchbar.css";
+import "../../pages/searchbar.css";
 // const SearchBar = ({ onFromChange, onToChange, fromValue, toValue }) => {
 const HomeSearch = ({
   onFromChange,
