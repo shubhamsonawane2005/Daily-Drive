@@ -1,16 +1,20 @@
 import { useState } from "react";
 import "../../pages/searchbar.css";
 // const SearchBar = ({ onFromChange, onToChange, fromValue, toValue }) => {
+
 const HomeSearch = ({
   onFromChange,
   onToChange,
   fromValue,
   toValue,
-  onSearchClick,
+//   onSearchClick,
   onDateChange,
   dateValue,
 }) => {
   const [passengers, setPassengers] = useState(1);
+  const onSearchClick = () =>{
+
+  }
   return (
     <div className="body_search">
       <div className="search-bar">
